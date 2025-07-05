@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.idea"
+		},
+		{
+			"path": "../service"
+		},
+		{
+			"path": "../repository"
+		},
+		{
+			"path": "../exception"
+		},
+		{
+			"path": "../entity"
+		},
+		{
+			"path": "."
+		}
+	]
+}
